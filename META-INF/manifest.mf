@@ -1,0 +1,42 @@
+Manifest-Version: 1.0
+
+Name: 128.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ycd8auBJ4sSrhVQCk8SmfQ==
+SHA1-Digest: drSbyfptVszbmJnF0I0kBNmGxAo=
+
+Name: 16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XV9hNqyyzclCDlcM/RgITw==
+SHA1-Digest: Wq3tjDvYYExraV4H7t8EAhG747E=
+
+Name: 48.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6OJkVjoehgsi5+OcK+fXMA==
+SHA1-Digest: xyAmOy8JWZRxMo/TmvROXcxaRtg=
+
+Name: background.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1B2M2Y8AsgTpgAmY7PhCfg==
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: jquery.min.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yfWu7KOtN78qoAYTm5NfCg==
+SHA1-Digest: EFUBjCirQQh++czv5BFgaJPavqI=
+
+Name: js.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: c6OPGj12u8aCTofi8hPHTw==
+SHA1-Digest: en+3TsM4/j6I/25Bg7fv3Evl3Co=
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: K/ZfLApvDPbr6Mgo5kHd6Q==
+SHA1-Digest: 6tTY5aW5NbiBdDYGo9I/aq/24jA=
+
+Name: popup.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZOPKlqR1jyYfs+k63NMpvQ==
+SHA1-Digest: TyBSfWOVw9+RkZUosUb+jPyfsGw=
+
